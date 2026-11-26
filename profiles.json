@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "guest": { "apps": ["portfolio"] },
+  "profiles": [
+    { "id": "tammy", "name": "Tammy", "aliases": [], "inheritsGuest": true, "apps": ["units", "cardlens"] }
+  ]
+}
